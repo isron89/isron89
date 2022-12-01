@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Hussein Isron
+- 👀 I’m interested in software development & cloud technology
+- 🌱 I’m currently learning software engineering & system architecture
+- 📫 You can find me on my profile
